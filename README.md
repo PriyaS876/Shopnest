@@ -20,6 +20,16 @@ A complete, production-style e-commerce web application built with the MERN stac
 - Razorpay payment integration
 - Order history / order tracking
 
+## 🧰 Tools & Platforms Used
+
+- **Code Editor:** VS Code
+- **API Testing:** Postman
+- **Database Hosting:** MongoDB Atlas
+- **Version Control:** Git & GitHub
+- **Frontend Hosting:** Vercel
+- **Backend Hosting:** Render
+- **Payment Gateway:** Razorpay
+
 ### Admin Features
 - Admin-only product management (add / edit / delete)
 - Order management with status updates (Pending → Processing → Shipped → Delivered)
