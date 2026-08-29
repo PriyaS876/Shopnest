@@ -4,6 +4,8 @@ A complete, production-style e-commerce web application built with the MERN stac
 
 🔗 **Live Demo:** [https://shopnest-6xhac0el7-priyas-projects-3a7be8d8.vercel.app](https://shopnest-6xhac0el7-priyas-projects-3a7be8d8.vercel.app)
 
+🔗 **Backend API:** [https://shopnest-backendnode-server-js.onrender.com](https://shopnest-backendnode-server-js.onrender.com)
+
 ---
 
 ## ✨ Features
