@@ -2,7 +2,7 @@
 
 A complete, production-style e-commerce web application built with the MERN stack (MongoDB, Express, React, Node.js). Features full authentication, product management, cart & wishlist, checkout with real payment integration, order tracking, and an admin dashboard.
 
-🔗 **Live Demo:** [https://shopnest-6xhac0el7-priyas-projects-3a7be8d8.vercel.app](https://shopnest-6xhac0el7-priyas-projects-3a7be8d8.vercel.app)
+🔗 **Live Demo:** https://shopnest-sandy.vercel.app/
 
 🔗 **Backend API:** [https://shopnest-backendnode-server-js.onrender.com](https://shopnest-backendnode-server-js.onrender.com)
 
